@@ -89,7 +89,6 @@ Consulta das entradas e saídas, com quantidade, motivo,
 data e acesso aos PDFs anexados.
 
 ![Histórico de movimentações](historico-consulta.png)
-
 ## Próximas melhorias
 
 - [ ] Edição dos produtos e do custo inicial, com registro das alterações.
