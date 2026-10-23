@@ -67,7 +67,28 @@ Os dados deste exemplo são fictícios.
 
 ## Demonstração
 
-Capturas de tela e vídeo demonstrativo serão adicionados com dados fictícios.
+Capturas da versão em desenvolvimento, utilizando dados de teste.
+
+### Tela principal
+
+Cadastro de produtos, consulta das quantidades disponíveis
+e acompanhamento do valor total do estoque.
+
+![Tela principal do controle de estoque](tela-inicial.png)
+
+### Registro de saída
+
+Seleção do produto, quantidade, motivo e descrição.
+O sistema verifica o saldo antes de confirmar a retirada.
+
+![Janela de registro de saída](registro-saida.png)
+
+### Histórico de movimentações
+
+Consulta das entradas e saídas, com quantidade, motivo,
+data e acesso aos PDFs anexados.
+
+![Histórico de movimentações](historico-consulta.png)
 
 ## Próximas melhorias
 
