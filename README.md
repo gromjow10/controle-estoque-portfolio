@@ -117,13 +117,21 @@ O sistema verifica o saldo antes de confirmar a retirada.
 
 ### Histórico de movimentações
 
-Consulta das entradas e saídas, com quantidade, motivo,
+Consulta das entradas e saídas, com quantidade, valor, motivo,
 data e acesso aos PDFs anexados.
 
-A versão atual também apresenta os valores das movimentações e as opções
-de correção de custo e estorno.
+Permite corrigir custos de entradas e estornar movimentações,
+preservando os registros originais.
 
-![Histórico de movimentações](historico-consulta.png)
+![Histórico de movimentações](historico%20de%20movimenta%C3%A7%C3%B5es.PNG)
+
+### Auditoria de custos
+
+Consulta dos ajustes de valor, correções de custo e estornos,
+com justificativas e valores anteriores e novos.
+
+![Auditoria de custos](auditoria.PNG)
+
 
 ## Validações realizadas
 
