@@ -106,7 +106,7 @@ Capturas da versão em desenvolvimento, utilizando dados de teste. Algumas image
 Cadastro de produtos, consulta das quantidades disponíveis
 e acompanhamento do valor total do estoque.
 
-![Tela principal do controle de estoque]
+![Tela principal do controle de estoque](tela-inicial.PNG)
 
 ### Registro de saída
 
